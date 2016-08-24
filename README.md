@@ -34,6 +34,25 @@
 
 ----
 
+##### [Wedding DJ app]
+- **Languages:** swift, java
+- **Difficulty:** Easy
+- **Areas of Interest:** DJ app for weddings
+- **Author:** [Michael Diamond](https://github.com/)
+- **Description:** An app for Wedding DJs. Integrates shazam so bride/groom could hear a song and shazam it -> sends song to DJ.
+- People on dancefloor can send requests to the DJ
+- Bride/groom can take photos of things they want at the wedding and it sends an email to their other service providers (eg, pic of flowers, sends to their florist, ect..
+
+- **Project Status:** Idea stage
+
+
+----
+
+
+
+
+
+
 ## Other Projects
 
 ##### Working on Jan and Junior, John Thangarajuh's Nao Robots
